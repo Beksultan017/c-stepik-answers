@@ -1,6 +1,6 @@
 # c-stepik-answers
 my first experience
-
+integers:{
 1 - ques:
 N squirrels found K nuts and decided to divide them equally. Determine how many nuts each squirrel will get
 
@@ -53,4 +53,4 @@ Biker Vasya starts from the zero kilometer of the MKAD and travels at a speed of
 A four-digit number is given. Determine whether its decimal notation is symmetric. If the number is symmetric, then output 1, otherwise output any other integer.
 A number can have less than four digits, then you need to assume that its decimal notation is supplemented on the left with insignificant zeros.
 
-
+}
