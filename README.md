@@ -53,4 +53,20 @@ Biker Vasya starts from the zero kilometer of the MKAD and travels at a speed of
 A four-digit number is given. Determine whether its decimal notation is symmetric. If the number is symmetric, then output 1, otherwise output any other integer.
 A number can have less than four digits, then you need to assume that its decimal notation is supplemented on the left with insignificant zeros.
 
-}
+block second:
+if and else: questions.
+
+1.Two integers are given. Print the value of the largest of them. If the numbers are equal, print any of them.
+2.Two integers are given. The program should output one if the first number is greater than the second, two if the second is greater than the first, or zero if they are equal.
+3.Three integers are given. Find the largest of them (the program should output exactly one integer). The largest in this problem is understood as a number that is not less than any other.
+4.Given three natural numbers A, B, C. Determine if there is a triangle with such sides. If the triangle exists, output the string YES, otherwise output the string NO.
+A triangle is three points that do not lie on the same straight line.
+5.Three integers are given. Determine how many of them match. The program should output one of the numbers: 3 (if all match), 2 (if two match) or 0 (if all the numbers are different).
+6.The chess rook moves horizontally or vertically. Given two different cells of the chessboard, determine whether the rook can get from the first cell to the second one in one move.
+7.The chess king moves horizontally, vertically and diagonally, but only by 1 square. Given two different squares of the chessboard, determine whether the king can get from the first square to the second one in one move.
+8.The chess bishop moves diagonally. Given two different cells of the chessboard, determine whether the bishop can get from the first cell to the second one in one move.
+9.The chess queen moves diagonally, horizontally or vertically. Given two different cells of the chessboard, determine whether the queen can get from the first cell to the second one in one move.
+10.The chess knight moves with the letter "G" — two squares vertically in any direction and one square horizontally, or vice versa. Given two different squares of the chessboard, determine whether the knight can get from the first square to the second one in one move.
+11.The chocolate bar has the form of a rectangle divided into N × M slices. A chocolate bar can be broken once in a straight line into two parts. Determine whether it is possible to break off exactly K slices from the chocolate in this way.
+12.Yasha swam in a pool measuring N ×M meters and was tired. At that moment, he discovered that he was at a distance of X meters from one of the long sides (not necessarily from the nearest one) and Y meters from one of the short sides. What is the minimum distance Yasha has to swim to get out of the pool on the side?
+13.Three numbers are given. Arrange them in non-decreasing order.
